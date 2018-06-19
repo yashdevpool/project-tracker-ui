@@ -1,0 +1,14 @@
+*.iml
+.bundle
+.DS_STORE
+.idea
+npm-debug.log
+node_modules
+output
+dist
+.build-tasksrc
+.sonar/
+coverage/
+sonar-project.properties
+/yarn-error.log
+.nyc_output
