@@ -1,0 +1,35 @@
+{
+  "name": "project-tracker-ui",
+  "description": "UI Codebase for project-tracker app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yashdevpool/project-tracker-ui.git"
+  },
+  "version": "0.0.1",
+  "author": "yashdevteam",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": ""
+  },
+  "files": [
+    "/dist",
+    "/src"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "peerDependencies": {
+    "react": "0.14.x",
+    "react-bootstrap": "0.30.x",
+    "react-dom": "0.14.x"
+  },
+  "dependencies": {
+    "react-bootstrap": "0.31.0"
+  },
+  "devDependencies": {
+    "hapi": "10.0.0"
+  },
+  "scripts": {
+    "build": ""
+  }
+}
